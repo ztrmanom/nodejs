@@ -7,8 +7,12 @@
     "main": "censortext",
     "repository": {
         "type": "git",
-        "url": ""
-    }
+        "url": "https://github.com/ztrmanom/nodejs/tree/master/nodejs/WebContent/ch03/censorify"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
     "dependencies": {},
     "engines": {
         "node": "*"
